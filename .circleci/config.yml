@@ -7,4 +7,3 @@ jobs:
     steps:
       - checkout
       - run: npm install
-      - run: npm run test --no-watch --no-progress --browsers=ChromeHeadlessCI
