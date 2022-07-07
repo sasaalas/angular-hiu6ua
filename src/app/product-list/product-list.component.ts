@@ -15,7 +15,7 @@ export class ProductListComponent {
   }
 
   public onNotify() {
-    window.alert('onNotify');
+    window.alert('onNotify 123');
   }
 }
 
